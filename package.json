@@ -1,0 +1,23 @@
+{
+  "name": "festival_musica",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdra/Festival_Musica.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Christian Herrera Cabezas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdra/Festival_Musica/issues"
+  },
+  "homepage": "https://github.com/chrisdra/Festival_Musica#readme"
+}
